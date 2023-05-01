@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reactjs2/static/css/main.be7192ad.chunk.css",
+    "main.js": "/reactjs2/static/js/main.8f1d8911.chunk.js",
+    "main.js.map": "/reactjs2/static/js/main.8f1d8911.chunk.js.map",
+    "runtime-main.js": "/reactjs2/static/js/runtime-main.1d2e1529.js",
+    "runtime-main.js.map": "/reactjs2/static/js/runtime-main.1d2e1529.js.map",
+    "static/css/2.09a314a2.chunk.css": "/reactjs2/static/css/2.09a314a2.chunk.css",
+    "static/js/2.3d9c4c07.chunk.js": "/reactjs2/static/js/2.3d9c4c07.chunk.js",
+    "static/js/2.3d9c4c07.chunk.js.map": "/reactjs2/static/js/2.3d9c4c07.chunk.js.map",
+    "index.html": "/reactjs2/index.html",
+    "static/css/2.09a314a2.chunk.css.map": "/reactjs2/static/css/2.09a314a2.chunk.css.map",
+    "static/css/main.be7192ad.chunk.css.map": "/reactjs2/static/css/main.be7192ad.chunk.css.map",
+    "static/js/2.3d9c4c07.chunk.js.LICENSE.txt": "/reactjs2/static/js/2.3d9c4c07.chunk.js.LICENSE.txt",
+    "static/media/l1_sh_img1.31742997.png": "/reactjs2/static/media/l1_sh_img1.31742997.png",
+    "static/media/l1_sh_img2.7ab108bd.png": "/reactjs2/static/media/l1_sh_img2.7ab108bd.png",
+    "static/media/l2shimg1.e1fbdcb0.png": "/reactjs2/static/media/l2shimg1.e1fbdcb0.png",
+    "static/media/l2shimg2.a2b88dd7.png": "/reactjs2/static/media/l2shimg2.a2b88dd7.png",
+    "static/media/l3shimg1.a097d14f.png": "/reactjs2/static/media/l3shimg1.a097d14f.png",
+    "static/media/l3shimg2.e9e087f3.png": "/reactjs2/static/media/l3shimg2.e9e087f3.png",
+    "static/media/l4shimg1.0db5502e.png": "/reactjs2/static/media/l4shimg1.0db5502e.png",
+    "static/media/l4shimg2.5f7f048e.png": "/reactjs2/static/media/l4shimg2.5f7f048e.png",
+    "static/media/l4shimgbun.5845a18d.png": "/reactjs2/static/media/l4shimgbun.5845a18d.png",
+    "static/media/l4shimgpizza.0dd9fc63.png": "/reactjs2/static/media/l4shimgpizza.0dd9fc63.png",
+    "static/media/l4shimgroll.b9e4ec54.png": "/reactjs2/static/media/l4shimgroll.b9e4ec54.png",
+    "static/media/l5shimg1.e2b53c77.png": "/reactjs2/static/media/l5shimg1.e2b53c77.png",
+    "static/media/l5shimg2.351cc80c.png": "/reactjs2/static/media/l5shimg2.351cc80c.png",
+    "static/media/l5shimg3.683c1946.png": "/reactjs2/static/media/l5shimg3.683c1946.png",
+    "static/media/l5shimg4.f43cb027.png": "/reactjs2/static/media/l5shimg4.f43cb027.png",
+    "static/media/l5shimg5.fb313ef8.png": "/reactjs2/static/media/l5shimg5.fb313ef8.png",
+    "static/media/l6shimg.5215dff0.png": "/reactjs2/static/media/l6shimg.5215dff0.png",
+    "static/media/l7shimg1.1f36bb92.png": "/reactjs2/static/media/l7shimg1.1f36bb92.png",
+    "static/media/l7shimg2.d4ad151b.png": "/reactjs2/static/media/l7shimg2.d4ad151b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d2e1529.js",
+    "static/css/2.09a314a2.chunk.css",
+    "static/js/2.3d9c4c07.chunk.js",
+    "static/css/main.be7192ad.chunk.css",
+    "static/js/main.8f1d8911.chunk.js"
+  ]
+}
